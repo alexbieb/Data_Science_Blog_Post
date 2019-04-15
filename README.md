@@ -37,3 +37,6 @@ And try to find out:
 Excel files : Data Sets extracted and compiled from Sernatur and Conaf
 Blog Article.ipynb : Jupyter Notebook with calculations
 Visualizations Blog Article.pbix : Visualizations in Power BI
+
+## Blog Post
+https://medium.com/@alexandre.biebuyck/find-your-next-adventure-destination-a292d14b33da
