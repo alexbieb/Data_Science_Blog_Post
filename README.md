@@ -34,3 +34,6 @@ And try to find out:
 
 ## Files Description
 
+Excel files : Data Sets extracted and compiled from Sernatur and Conaf
+Blog Article.ipynb : Jupyter Notebook with calculations
+Visualizations Blog Article.pbix : Visualizations in Power BI
