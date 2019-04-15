@@ -14,6 +14,12 @@ You will also need to have software installed to run and execute an iPython Note
 
 The visualizations require Power BI.
 
+## Data Sets
+Public resources and datasets are available on :
+The website of the "Servicio Nacional de Turismo" : https://www.sernatur.cl/
+The website of the "Corporación Nacional Forestal" in charge of the National Parks: http://www.conaf.cl/
+The website of the "Subsecretaria de Turismo" in charge of the development of the turistic activities in Chile: http://www.subturismo.gob.cl
+
 ## Project
 
 Project part of the Data Scientist NanoDegree of Udacity.
