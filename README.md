@@ -6,9 +6,9 @@ Project : Data Science Blog Post
 
 This project requires Python 3.x and the following Python libraries installed:
 
-NumPy
-Pandas
-matplotlib
+- NumPy
+- Pandas
+- matplotlib
 
 You will also need to have software installed to run and execute an iPython Notebook
 
@@ -16,9 +16,9 @@ The visualizations require Power BI.
 
 ## Data Sets
 Public resources and datasets are available on :
-The website of the "Servicio Nacional de Turismo" : https://www.sernatur.cl/
-The website of the "Corporación Nacional Forestal" in charge of the National Parks: http://www.conaf.cl/
-The website of the "Subsecretaria de Turismo" in charge of the development of the turistic activities in Chile: http://www.subturismo.gob.cl
+- The website of the "Servicio Nacional de Turismo" : https://www.sernatur.cl/
+- The website of the "Corporación Nacional Forestal" in charge of the National Parks: http://www.conaf.cl/
+- The website of the "Subsecretaria de Turismo" in charge of the development of the turistic activities in Chile: http://www.subturismo.gob.cl
 
 ## Project
 
@@ -34,9 +34,9 @@ And try to find out:
 
 ## Files Description
 
-Excel files : Data Sets extracted and compiled from Sernatur and Conaf
-Blog Article.ipynb : Jupyter Notebook with calculations
-Visualizations Blog Article.pbix : Visualizations in Power BI
+- Excel files : Data Sets extracted and compiled from Sernatur and Conaf
+- Blog Article.ipynb : Jupyter Notebook with calculations
+- Visualizations Blog Article.pbix : Visualizations in Power BI
 
 ## Blog Post
 https://medium.com/@alexandre.biebuyck/find-your-next-adventure-destination-a292d14b33da
